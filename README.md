@@ -6,3 +6,7 @@
 * This is a bullet point
 
   This is just a text
+
+``` Start Coding 
+x = 2
+```
